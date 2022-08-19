@@ -24,3 +24,7 @@ a {
     background: black;
   }
 }
+
+#__next {
+  padding: 20px;
+}
